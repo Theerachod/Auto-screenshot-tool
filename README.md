@@ -1,5 +1,5 @@
 # Auto screenshot project
-I have developed a specialized tool designed to automate the workflow of creating social listening reports, with a key feature being the ability to capture screenshots. This tool, named "Auto Screenshot," is specifically tailored for the task of capturing screenshots, an essential component in the creation of social listening reports. Its functionality includes the ability to create multiple screenshots and arrange them in PowerPoint slides. This streamlined process facilitates the work of data analysts who can utilize these screenshots for further inclusion in their reports. Users can select from various types of screenshots to meet their specific needs.
+I have developed a specialized tool designed to automate the workflow of creating social listening reports, with a key feature being the ability to create screenshots. This tool, named "Auto Screenshot," is specifically tailored for the task of creating screenshots, an essential component in the creation of social listening reports. Its functionality includes the ability to create multiple screenshots and arrange them in PowerPoint slides. This streamlined process facilitates the work of data analysts who can utilize these screenshots for further inclusion in their reports. Users can select from various types of screenshots to meet their specific needs.
 
 1. text only screenshot
 
